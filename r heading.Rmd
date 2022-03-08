@@ -1,0 +1,24 @@
+---
+title: "1st proj"
+author: "ENOCH"
+date: "08/03/2022"
+output: html_document
+---
+
+# What is UI_LISA
+UI-LISA is an organization 
+
+## Benefits of UI_LISA
+1.Training of Students
+2.Solving statistical Problems Practically
+
+### Activities of UI_LISA
+-***Field Work***
+-IT **Training**
+-Data *Analysis*
+```{r echo=FALSE}
+data(trees)
+head(trees)
+
+```
+
